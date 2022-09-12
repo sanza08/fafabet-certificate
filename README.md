@@ -1,2 +1,0 @@
-# fafabet-certificate
-Licence certificates
